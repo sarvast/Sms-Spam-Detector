@@ -38,7 +38,3 @@ This project implements a binary classification model to detect spam messages in
 2. **Algorithm**: Logistic Regression with binary classification
 3. **Train-Test Split**: 80% training, 20% testing
 4. **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score
-
-## 📝 Installation & Setup
-
-1. **Clone the repository:**
